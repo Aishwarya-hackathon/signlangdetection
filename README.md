@@ -24,7 +24,7 @@ Result for OKAY
   
 
 ### Time Taken to detect = 0.922s & Accuracy of our model = 97%
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Research Paper Publication 
 Published a research paper on real-time sign language recognition, developed a live demo for gesture classification, and presented the work at an IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics (DISCOVER).
-Link -> https://ieeexplore.ieee.org/document/9663629/references#references
+https://ieeexplore.ieee.org/document/9663629/references#references
