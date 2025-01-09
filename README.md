@@ -1,8 +1,7 @@
 # Sign language Detection
 
-This project aims at extending a step forward in this field by collecting a dataset and then use various feature extraction techniques to extract useful information which is then input into various supervised learning techniques. To more easily approach the problem and obtain reasonable results, we experimented with just up to 5 different classes/words in our self-made dataset instead of all 26 possible letters.
-
-We achieved a classification accuracy of 97% on a randomly selected set of test data using our trained model. In addition to the work we did on static images, we also created a live demo version of the project which can be run at a little less than 2 seconds per frame to classify signed hand gestures from any person.
+Mode of communication for people with disabilities like hearing and speaking has always been controversial. Sign language has proven to be an incredibly beneficial method. It deals with recognizing gestures which are then comprehended as words or alphabets. The majority of the crowd are not often exposed to the world of sign language significantly. This causes issues for people with disabilities which results in deprived communication with the majority. The purpose of this work is to provide a real-time system which can convert our own set of signs into text. 
+First, we create a database as an act of extending a step forward in this field and then various image preprocessing and feature extraction techniques were performed to obtain reasonable result. Initially as an easy approach we went ahead experimenting with just up to 5 different classes/words whose self-made images were fed into our CNN model resulting in a classification accuracy of 97%. As an addition to the work that we accomplished on static images, we created a live demo version of the project which can be run at a little less than 2 seconds per frame to classify signed hand gestures from any person.
 
 [Download the video demo](final_video_1.mp4)
 
