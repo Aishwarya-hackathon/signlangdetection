@@ -4,6 +4,8 @@ This project aims at extending a step forward in this field by collecting a data
 
 We achieved a classification accuracy of 97% on a randomly selected set of test data using our trained model. In addition to the work we did on static images, we also created a live demo version of the project which can be run at a little less than 2 seconds per frame to classify signed hand gestures from any person.
 
+[Download the video demo](final_video_1.mp4)
+
 ## Collecting dataset
 ![image](https://user-images.githubusercontent.com/74018041/121787111-e3829c80-cbe1-11eb-9353-f6c4ca2df4b6.png)
 
