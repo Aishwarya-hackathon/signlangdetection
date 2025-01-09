@@ -4,7 +4,7 @@ Mode of communication for people with disabilities like hearing and speaking has
 
 First, we create a database as an act of extending a step forward in this field and then various image preprocessing and feature extraction techniques were performed to obtain reasonable result. Initially as an easy approach we went ahead experimenting with just up to 5 different classes/words whose self-made images were fed into our CNN model resulting in a classification accuracy of 97%. As an addition to the work that we accomplished on static images, we created a live demo version of the project which can be run at a little less than 2 seconds per frame to classify signed hand gestures from any person.
 
-[Download the Presentation]
+[Download the Presentation](129.pptx)
 
 [Download the Video Demo](final_video_1.mp4)
 
