@@ -27,8 +27,13 @@ Result for OKAY
 ![image](https://user-images.githubusercontent.com/74018041/121787270-c0a4b800-cbe2-11eb-99b6-4750c0c56c10.png)
   
 
-## Time Taken to detect = 0.922s & Accuracy of our model = 97%
+
+#### Time Taken to detect = 0.922s & Accuracy of our model = 97%
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Research Paper Publication 
+## Research Paper Publication 
 Published a research paper on real-time sign language recognition, developed a live demo for gesture classification, and presented the work at an IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics (DISCOVER).
 https://ieeexplore.ieee.org/document/9663629/references#references
+
+### IEEE DISCOVER Conference Presentation certificate
+
+![Aishwarya (1)](https://github.com/user-attachments/assets/69e64c40-5702-4dee-8929-1a51a218e1dc)
